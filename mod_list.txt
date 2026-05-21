@@ -1,1 +1,1 @@
-crazy_flappy.cfg|Makes the game easier!!
+crazy_flappy.cfg|Turns your ship into a literal brick with massive rocket thrusters! Hardcore mode!
