@@ -1,1 +1,1 @@
-crazy_flappy.cfg
+crazy_flappy.cfg|Makes the game easier!!
